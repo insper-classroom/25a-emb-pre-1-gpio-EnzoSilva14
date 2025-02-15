@@ -4,7 +4,6 @@
 
 const int LED_PIN_R = 5;
 const int LED_PIN_Y = 28;
-
 int main() {
   stdio_init_all();
 
